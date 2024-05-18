@@ -36,3 +36,8 @@ ollama
 Run the following command to install all the libraries.
 
 pip install -r requirements.txt
+
+
+To run streamlit:
+
+streamlit run main.py
